@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #fff8f0
+    background-color: #fff8f0;
     text-align: center;
     margin: 0;
     padding: 20px;
@@ -17,7 +17,7 @@ h1 {
     margin: 0;
 }
 
-u1 {
+ul {
     list-style: none;
     padding: 0;
 }
