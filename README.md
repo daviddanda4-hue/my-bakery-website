@@ -21,4 +21,10 @@ All CSS validated with W3C Jigsaw Validator.
 Screenshots saved in '/Step6-Validator' folder.
 
 ## Author
-Danda DAVID - 25530352
+Student Name: Danda DAVID
+Student ID#: 25530352
+Course: IS229 Web Development
+Due Date: Friday 11 September
+
+## AI Use Declaration
+I used Meta AI to help write CSS code, debug HTML structure, and build navigation for the Sweet Crumbs Bakery website.
